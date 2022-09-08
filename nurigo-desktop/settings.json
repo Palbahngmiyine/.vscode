@@ -3,5 +3,6 @@
     "editor.fontFamily": "Cascadia Code PL, Pretendard Variable, Consolas, 'Courier New', monospace",
     "editor.fontSize": 16,
     "window.zoomLevel": 1,
-    "security.workspace.trust.untrustedFiles": "open"
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "afterDelay"
 }
